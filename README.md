@@ -1,5 +1,10 @@
 ### Khajiit enthousiast 😻 
 
+---
+
+"M'aiq knows much, tells some. M'aiq knows many things others do not."
+*M'aiq the Liar*
+
 <!--
 **dinoclier72/dinoclier72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
